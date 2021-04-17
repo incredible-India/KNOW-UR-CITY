@@ -1,0 +1,47 @@
+@font-face {
+    font-family: loli;
+    src: url('./../fonts/ZillaSlabHighlight-Regular.ttf');
+}
+
+.top
+{
+    text-align: center;
+    margin: 12px;
+}
+.CITY{
+    font-family: loli;
+    color: red;
+}
+
+.imgs{
+height: 40px;
+background-image: linear-gradient(to right,#000428 , #004e92);
+
+}
+
+.form{
+    margin-top: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+
+
+
+.hawaMAhal{
+
+    margin-top: 20px;
+    height: 400px;
+    width: 100%;
+}
+
+.result
+{
+    margin-top: 10px;
+  overflow-x: auto;
+}
