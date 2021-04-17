@@ -72,6 +72,7 @@ SearchBTN.addEventListener('click',()=>{
 
                
                 document.getElementsByClassName('noOFCITY')[0].innerHTML = `<h1 style="text-align: center;" class="display-6"> ${finalData[0].Message} </h1>`
+                document.getElementsByClassName('noOFCITY')[0].focus();
                 document.getElementsByClassName('tableDATA')[0].innerHTML = ""
               
              
