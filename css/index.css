@@ -60,3 +60,12 @@ background-image: linear-gradient(to right,#000428 , #004e92);
     align-items: center;
 
 } */
+
+
+.loading {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
