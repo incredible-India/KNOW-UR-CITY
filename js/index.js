@@ -19,10 +19,7 @@ getALERT.setAttribute('style',`display : ${styleType};`)
 
 //hide the loader once image is loaded
 
-function removeIT()
-{
-  document.getElementsByClassName('loading')[0].style.display = "none";
-}
+
 
 
 
