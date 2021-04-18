@@ -69,3 +69,17 @@ background-image: linear-gradient(to right,#000428 , #004e92);
     align-items: center;
 }
 
+
+
+.git{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   text-align: center;
+   text-decoration: none;
+}
+
+.gits{
+    text-align: center;
+    text-decoration: none;
+}
